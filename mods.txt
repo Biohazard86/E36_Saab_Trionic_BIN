@@ -3,6 +3,7 @@ Saab 9000    4300828    200hp   323nm
 B234L    1994    BASE BOOST: 0.4bar   BOOST:1bar
 -----------------------------------------------------------------------------
 MODS:
+-RAM unlocked
 -Purge control -> Disabled
 -Boost limit 1st y 2nd -> 1.54bar  (over the global boost limit, Tryck_vakt_tab! : 1,35)
 -Load buffering during idle -> Activated
