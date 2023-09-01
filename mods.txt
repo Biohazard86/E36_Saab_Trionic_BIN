@@ -1,24 +1,24 @@
 -----------------------------------------------------------------------------
-Saab 9000 4300828 200hp 323nm
-B234L  1994  BASE: 0.4bar BOOST:1bar
+Saab 9000    4300828    200hp   323nm
+B234L    1994    BASE BOOST: 0.4bar   BOOST:1bar
 -----------------------------------------------------------------------------
 MODS:
--Purge control -> Desactivado
--Boost limit 1a y 2a -> 1.54bar
--Load buffering during idle -> Activado
--RAM locked -> Desactivado
-- Gear_st! relaciones de la caja de Omega B R30 x 3.45 dif
-	1a -> 13.1376		4a -> 3.45
-	2a -> 7.2657		5a -> 2.6254
-	3a -> 4.6126		R  -> 11.7403
--Radius_of_roll! -> de 306 a 315.95 (radio en mm)
--Pulses_per_rev! -> de 48 a 90 ppr
+-Purge control -> Disabled
+-Boost limit 1st y 2nd -> 1.54bar  (over the global boost limit, Tryck_vakt_tab! : 1,35)
+-Load buffering during idle -> Activated
+-RAM locked -> Disabled
+- Gear_st! -> Opel Omega B R30 gearbox ratios x 3.45 differential (168mm stock) 
+	1st -> 13.1376		4th -> 3.45
+	2nd -> 7.2657		5th -> 2.6254
+	3rd -> 4.6126		R  -> 11.7403
+-Radius_of_roll! -> from 306 to 315.95 (radius in mm) of 205 55 R15 tyres 
+-Pulses_per_rev! -> Pulses per rev. From  48 a 90 ppr of the BMW to the Saab ECU
 
 
 
 -----------------------------------------------------------------------------
 No active MODS: 
--Speed signal eliminada: Diag_speed_load! -> -0.28 en vez de 0.28  NO ACTIVO
+-Speed signal disabled: Diag_speed_load! -> -0.28 en vez de 0.28  NO ACTIVO
 
 	
 
