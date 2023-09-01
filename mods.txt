@@ -1,0 +1,33 @@
+-----------------------------------------------------------------------------
+Saab 9000 4300828 200hp 323nm
+B234L  1994  BASE: 0.4bar BOOST:1bar
+-----------------------------------------------------------------------------
+MODS:
+-Purge control -> Desactivado
+-Boost limit 1a y 2a -> 1.54bar
+-Load buffering during idle -> Activado
+-RAM locked -> Desactivado
+- Gear_st! relaciones de la caja de Omega B R30 x 3.45 dif
+	1a -> 13.1376		4a -> 3.45
+	2a -> 7.2657		5a -> 2.6254
+	3a -> 4.6126		R  -> 11.7403
+-Radius_of_roll! -> de 306 a 315.95 (radio en mm)
+-Pulses_per_rev! -> de 48 a 90 ppr
+
+
+
+-----------------------------------------------------------------------------
+No active MODS: 
+-Speed signal eliminada: Diag_speed_load! -> -0.28 en vez de 0.28  NO ACTIVO
+
+	
+
+
+
+
+
+
+
+
+
+
